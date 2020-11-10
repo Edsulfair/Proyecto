@@ -1,0 +1,29 @@
+body{
+    min-height: 100vh;
+    margin: 0;
+    background: linear-gradient( #5837AC,black)
+}
+#Promedios{
+    padding: 10px;
+    color: #ffffff;
+    font-size: 30px;
+    text-align: left;
+}
+#Turnos{
+    position: absolute;
+    right: 1400px;
+    top: 35px;
+    color: #ffffff;
+    
+}
+#Tabla,tr,td{
+    color:#ffffff;
+    border:3px solid black;
+    border-collapse: collapse;
+    padding: 1%;
+    text-align: center;
+}
+#Tarde{
+    position: absolute;
+    left: 122px;
+}
